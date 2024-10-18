@@ -14,45 +14,38 @@
 
 ---
 
-<!--- Adding Tech Stack Section -->
-<details>	
-  <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
+<b>🛠 Tech Stack/ Certifications</b><br>
 
-  **Languages:** 
-  <img src="https://img.shields.io/badge/-JAVA-black">&nbsp;
-  <img src="https://img.shields.io/badge/-REACTJS-blue">&nbsp;
-  <img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
-  <img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
-  <img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp; 
+**Languages:** 
+<img src="https://img.shields.io/badge/-JAVA-black">&nbsp;
+<img src="https://img.shields.io/badge/-REACTJS-blue">&nbsp;
+<img src="https://img.shields.io/badge/-Mysql-DC8F0F?logo=Mysql&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-HTML5-DE5934?logo=HTML5&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-CSS3-2275B2?logo=CSS3&logoColor=white&style=flat">&nbsp; 
 
-  **Tools and Platforms:** 
-  <img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp; 
+**Tools and Platforms:** 
+<img src="https://img.shields.io/badge/-Git-orange?logo=Git&logoColor=white&style=flat">&nbsp; 
+<img src="https://img.shields.io/badge/-Visual%20Studio%20Code-25AEF4?logo=visualstudio&logoColor=white&style=flat">&nbsp; 
 
-  **Operating Systems:** 
-  <img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
-  <img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black">&nbsp;
-
-</details>
+**Operating Systems:** 
+<img src="https://img.shields.io/badge/-Windows-0F7BCF?logo=Windows&logoColor=white&style=flat">&nbsp;
+<img src="https://img.shields.io/badge/-Linux-EDBD2B?logo=Linux&logoColor=black">&nbsp;
 
 ---
 
 ## Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  <a href="https://holopin.io/@subhalaxmis">
+  ![](https://holopin.me/subhalaxmis)
+<!--   <a href="https://holopin.io/@subhalaxmis"> -->
     <!-- Add your badge image here -->
   </a>
 </div>
 
 ---
 
-<!--- Recent Projects Section -->
-<details>	
-  <summary><b>📚 Recent Projects/ Activity</b></summary><br>
+<b>📚 Recent Projects/ Activity</b><br>
 
-  ✨ [PokeCount](https://github.com/subhalaxmi-S/PokeCount)<br>
-  
-</details> 
+✨ [PokeCount](https://github.com/subhalaxmi-S/PokeCount)<br>
 
 ---
 
