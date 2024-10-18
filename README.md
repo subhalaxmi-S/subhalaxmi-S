@@ -37,7 +37,7 @@
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
 <!--   ![](https://holopin.me/subhalaxmis) -->
 <!--   <a href="[https://holopin.io/@subhalaxmis](https://www.holopin.io/hacktoberfest2024/userbadge/cm26iwi3513160cjv6gke3oox)"> -->
-  [![An image of @subhalaxmis's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/subhalaxmis)](https://holopin.io/@subhalaxmis)
+
 
     <!-- Add your badge image here -->
 <!--   </a> -->
@@ -45,7 +45,7 @@
 
 ---
 
-<b>📚 Recent Projects/ Activity</b><br>
+##📚 Recent Projects/ Activity<br>
 
 ✨ [PokeCount](https://github.com/subhalaxmi-S/PokeCount)<br>
 
