@@ -8,13 +8,13 @@
 
 ---
 
-👨🏻‍💻 **About Me**  
+## 👨🏻‍💻 About Me  
 <img src="https://raw.githubusercontent.com/sanjay-kv/sanjay-kv/main/Assets/illustration.png" min-width="300px" max-width="300px" width="350px" align="right"> 
 ✨ Software Developer | CSE Graduate 
 
 ---
 
-<b>🛠 Tech Stack/ Certifications</b><br>
+## 🛠 Tech Stack/ Certifications
 
 **Languages:** 
 <img src="https://img.shields.io/badge/-JAVA-black">&nbsp;
