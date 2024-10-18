@@ -21,7 +21,7 @@
 
 
 <details>	
- <summary><b>🛠 Tech Stack/ Certifications</b></summary><br>
+<b>🛠 Tech Stack/ Certifications</b><br>
 Languages: 
 <img src="<img src="https://img.shields.io/badge/-JAVA-black">&nbsp;
 <img src="https://img.shields.io/badge/-REACTJS-blue">&nbsp;
