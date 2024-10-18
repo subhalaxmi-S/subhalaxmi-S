@@ -35,8 +35,8 @@
 
 ## Badges 🪶
 <div style='display:flex; align-items:center; gap: 10px;' align='center'>
-  ![](https://holopin.me/subhalaxmis)
-<!--   <a href="https://holopin.io/@subhalaxmis"> -->
+<!--   ![](https://holopin.me/subhalaxmis) -->
+  <a href="[https://holopin.io/@subhalaxmis](https://www.holopin.io/hacktoberfest2024/userbadge/cm26iwi3513160cjv6gke3oox)">
     <!-- Add your badge image here -->
   </a>
 </div>
