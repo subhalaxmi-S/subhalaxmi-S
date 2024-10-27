@@ -40,6 +40,7 @@
 ## Recent Projects/ Activity📚
 
 ✨ [PokeCount](https://github.com/subhalaxmi-S/PokeCount)<br>
+✨ [Gericht Resturant](https://github.com/subhalaxmi-S/resturant-landing-page)<br>
 
 ---
 
